@@ -1,0 +1,7 @@
+.env
+.venv
+app/test.py
+outcoms.txt
+app/__pycache__
+app/routers/__pycache__
+app/core/__pycache__
